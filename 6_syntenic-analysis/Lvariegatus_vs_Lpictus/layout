@@ -1,0 +1,5 @@
+# y, xstart, xend, rotation, color, label, va,  bed
+ .6,     .1,    .8,       0, #f1b6da, Lvariegatus, top, Lvariegatus.bed
+ .4,     .1,    .8,       0, #4dac26, Lpictus, top, Lpictus.bed
+# edges
+e, 0, 1, Lvariegatus.Lpictus.anchors.simple

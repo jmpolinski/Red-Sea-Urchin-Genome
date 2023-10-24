@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# still working in juicer working directory: /data/prj/urchin/red-urchin-genome/hi-c/juicer_hic
+
+/data/app/3d-dna-201008/run-asm-pipeline.sh draft_15kb+.fa merged_nodups.txt
+

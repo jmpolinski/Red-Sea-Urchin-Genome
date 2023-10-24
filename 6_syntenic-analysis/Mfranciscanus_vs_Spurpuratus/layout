@@ -1,0 +1,5 @@
+# y, xstart, xend, rotation, color, label, va,  bed
+ .6,     .1,    .8,       0, #f1b6da, Mfranciscanus, top, Mfranciscanus.bed
+ .4,     .1,    .8,       0, #4dac26, Spurpuratus, bottom, Spurp.bed
+# edges
+e, 0, 1, Mfranciscanus.Spurp.anchors.simple

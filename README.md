@@ -5,7 +5,7 @@ The genome assembly, annotations, and all raw data associated with this project 
 
 ## Sample preparation information:
 
-The organism used to generate this assembly was a male red sea urchin, samples ID "Mf1", with a 101 mm tst diamter. DNA for all sequencing was extracted from gonad tissue following a modified CTAB extraction procedure (please reference publication for additional information).  
+The organism used to generate this assembly was a male red sea urchin, samples ID "Mf1", with a 101 mm test diameter. DNA for all sequencing was extracted from gonad tissue following a modified CTAB extraction procedure (please reference publication for additional information).  
 Dissections were done by Andrea Bodnar, and DNA extractions by Jennifer Polinski. 
 
 ## Illumina short-read library prep:
